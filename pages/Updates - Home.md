@@ -8,6 +8,7 @@
 	- [[Courses]]
 		- [[Advanced Course]]
 			- [[2023]]
+			- [[2024]]
 		- [[CA/CMA Final]]
 		- [[CA/CMA Inter]]
 	- [[Webinars]]
